@@ -39,11 +39,6 @@ export default function Home() {
         muted
         className="fixed top-0 left-0 w-full h-full object-cover z-0 -scale-x-100"
       />
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20">
-        <button className="px-6 py-3 rounded-full bg-white/80 text-black font-semibold shadow-lg hover:bg-white transition">
-          Copilot Vision
-        </button>
-      </div>
     </div>
   );
 }
